@@ -140,7 +140,7 @@ soupsieve==2.5
 st-supabase-connection==1.2.0
 stack-data==0.6.3
 storage3==0.6.1
-streamlit==1.29.0
+streamlit==1.37.0
 streamlit-survey @ git+https://github.com/OlivierBinette/streamlit-survey.git@59541fda6d62e46bb856ce47e596b3c080da8e83
 StrEnum==0.4.15
 supabase==1.2.0
